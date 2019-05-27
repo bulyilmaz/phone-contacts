@@ -1,0 +1,19 @@
+.phoneContactsList-list {
+    list-style-type: none;
+    background-color: #DEDEDE;
+    padding: 10px;
+}
+.phoneContactsList-listItem {
+    line-height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.phoneContactsList-listItemName {
+    display: inline-block;
+    width: 200px;
+}
+.phoneContactsList-listItemNumber {
+    display: inline-block;
+    width: 250px;
+    text-align: center;
+}

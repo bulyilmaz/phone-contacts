@@ -1,4 +1,4 @@
-### Phone Contats App with React & Redux
+### Phone Contacts App with React & Redux
 
 `cd /path/to/phone-contacts`
 

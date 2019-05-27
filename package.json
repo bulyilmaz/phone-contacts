@@ -1,6 +1,6 @@
 {
   "name": "phone-contacts",
-  "description": "Phone Contats App with React & Redux",
+  "description": "Phone Contacts App with React & Redux",
   "devDependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",

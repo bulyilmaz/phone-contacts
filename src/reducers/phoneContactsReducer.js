@@ -6,7 +6,7 @@ export const phoneContactsReducer = (contacts = [], action) => {
             return contacts.concat(action.payload.contact);
         case phoneContactsActionTypes.DELETE_CONTACT:
             return contacts.filter(contact => {
-                return contact.name.indexOf(action.payload.contact.name) === -1;
+                return contact.name !== action.payload.contact.name;
             });
         default:
             return contacts;

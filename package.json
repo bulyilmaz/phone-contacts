@@ -1,6 +1,4 @@
 {
-  "name": "phone-contacts",
-  "description": "Phone Contacts App with React & Redux",
   "author": "Bülent YILMAZ",
   "devDependencies": {
     "react": "^16.8.1",
